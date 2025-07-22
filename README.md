@@ -87,36 +87,6 @@ Make sure your OpenAI API plan supports GPT-4 with function calling.
 
 The weather tool is a free endpoint (wttr.in) and may throttle or fail under heavy usage.
 
-🧩 To Do / Improvements
-Add error handling for API failures
+ 
 
-Add more tools like:
-
-Web scraping
-
-Wikipedia search
-
-File read/write
-
-Convert to web app or add GUI
-
-Use subprocess instead of os.system for safer command execution
-
-🔒 Security Warning
-Never hardcode your API key in code, especially when sharing or publishing. Always load it from environment variables or a secure vault.
-
-📜 License
-This project is for educational/demo purposes. Customize and expand based on your use case.
-
-Let me know if you'd like this turned into a Markdown file (README.md), or want to turn it into a proper open-source GitHub repo with MIT License and contribution guidelines.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
+ 
